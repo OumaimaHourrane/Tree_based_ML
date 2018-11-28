@@ -2,4 +2,4 @@
 
 This notebook is intended to assist beginners to learn tree-based modeling from scratch. After the successful completion of this tutorial, one is expected to become able to use tree-based algorithms and build predictive models.
 
-Thanks for your reading! Enjoy :)
+Check the RF_Tuto.ipng file! Enjoy reading and running it :)
